@@ -1,8 +1,10 @@
-# Santa's Decoration Shop
+# SNT DCR SHP
 
 > Author: howard41436 | 楊皓丞 | B06902097
 
 ### Description
+
+Santa has opened a new decoration shop in place of the corner store. Will it be able to dominate the market or will it fail victim to hackers?
 
 source: [server.py](./server.py)
 
