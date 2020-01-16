@@ -3,9 +3,11 @@
 > Author : weibig | 陳惟中 | B06705014
 
 ### Problem Description
-http://eductf.zoolab.org:18787
+
+[source](http://eductf.zoolab.org:18787)
+
 Difficulty: medium
----
+
 題目的網站是由jQuery建構而成，會將字串轉倒轉，並在下方印出。另外空格會變轉成"+"號，有些字串受限制而不會被印出(e.g. 輸入 >?php?< 倒轉後的 <?php?> 不會印在下方)。
 
 ### Solution 
